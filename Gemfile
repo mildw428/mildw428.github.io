@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 # Just-the-docs 테마는 GitHub Pages에서 지원하는 방식으로 설정
-gem "just-the-docs"
+# gem "just-the-docs"
 
 # Windows 및 특정 플랫폼 관련 설정 (필요 시)
 platforms :mingw, :x64_mingw, :mswin, :jruby do
