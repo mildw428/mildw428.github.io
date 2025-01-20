@@ -30,8 +30,6 @@ just_the_docs:
   custom_css: "assets/css/custom.css"
 
 # Build settings
-plugins:
-  - jekyll-feed
 
 
 # Exclude from processing.
